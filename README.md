@@ -2,6 +2,8 @@
 
 A lightweight C# WinForms overlay that displays a fully customizable crosshair on top of any game or application.
 
+> The application interface is in French.
+
 ## Download
 
 👉 [Latest release (v1.0)](https://github.com/xHatefulMan/CrosshairOverlay/releases/tag/v1.0)
