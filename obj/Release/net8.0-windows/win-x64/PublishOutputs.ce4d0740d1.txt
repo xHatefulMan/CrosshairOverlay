@@ -1,0 +1,2 @@
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\bin\Release\net8.0-windows\win-x64\publish\CrosshairApp.pdb
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\bin\Release\net8.0-windows\win-x64\publish\CrosshairApp.exe

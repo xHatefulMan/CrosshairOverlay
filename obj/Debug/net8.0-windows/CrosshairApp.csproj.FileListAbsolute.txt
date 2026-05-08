@@ -1,0 +1,17 @@
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\bin\Debug\net8.0-windows\CrosshairApp.exe
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\bin\Debug\net8.0-windows\CrosshairApp.deps.json
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\bin\Debug\net8.0-windows\CrosshairApp.runtimeconfig.json
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\bin\Debug\net8.0-windows\CrosshairApp.dll
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\bin\Debug\net8.0-windows\CrosshairApp.pdb
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\obj\Debug\net8.0-windows\CrosshairApp.csproj.GenerateResource.cache
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\obj\Debug\net8.0-windows\CrosshairApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\obj\Debug\net8.0-windows\CrosshairApp.AssemblyInfoInputs.cache
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\obj\Debug\net8.0-windows\CrosshairApp.AssemblyInfo.cs
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\obj\Debug\net8.0-windows\CrosshairApp.csproj.CoreCompileInputs.cache
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\obj\Debug\net8.0-windows\CrosshairApp.dll
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\obj\Debug\net8.0-windows\refint\CrosshairApp.dll
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\obj\Debug\net8.0-windows\CrosshairApp.pdb
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\obj\Debug\net8.0-windows\CrosshairApp.genruntimeconfig.cache
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\obj\Debug\net8.0-windows\ref\CrosshairApp.dll
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\bin\Debug\net8.0-windows\target.ico
+C:\Users\julie\OneDrive\Desktop\Projets visual\CrosshairApp\CrosshairApp\obj\Debug\net8.0-windows\CrosshairApp.Form1.resources
